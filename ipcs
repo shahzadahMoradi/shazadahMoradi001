@@ -1,0 +1,3 @@
+pip2 install requests
+cd ipcs
+python2 scan.py
