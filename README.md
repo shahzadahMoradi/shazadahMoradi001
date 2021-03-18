@@ -1,2 +1,4 @@
-# shazadahMoradi001
-Badghis_Tech
+shazadahMoradi001
+Cd cam
+bash cam.sh
+
