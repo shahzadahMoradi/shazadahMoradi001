@@ -1,4 +1,3 @@
 shazadahMoradi001
-Cd cam
-bash cam.sh
-
+The Telegram:Badghis_Tech
+The yotuod:Badghid_Tech
